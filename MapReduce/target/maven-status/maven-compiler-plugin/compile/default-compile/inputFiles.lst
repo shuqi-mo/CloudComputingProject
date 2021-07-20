@@ -1,0 +1,10 @@
+D:\Program Files (x86)\eclipse\MapReduce\src\main\java\FloatPair.java
+D:\Program Files (x86)\eclipse\MapReduce\src\main\java\UserScoreMatrixMapper.java
+D:\Program Files (x86)\eclipse\MapReduce\src\main\java\MatrixMultiplicationMapper.java
+D:\Program Files (x86)\eclipse\MapReduce\src\main\java\RankMapper.java
+D:\Program Files (x86)\eclipse\MapReduce\src\main\java\ItemCoOccurenceMapper.java
+D:\Program Files (x86)\eclipse\MapReduce\src\main\java\JobMain.java
+D:\Program Files (x86)\eclipse\MapReduce\src\main\java\RankReducer.java
+D:\Program Files (x86)\eclipse\MapReduce\src\main\java\MatrixMultiplicationReducer.java
+D:\Program Files (x86)\eclipse\MapReduce\src\main\java\ItemCoOccurenceReducer.java
+D:\Program Files (x86)\eclipse\MapReduce\src\main\java\UserScoreMatrixReducer.java
